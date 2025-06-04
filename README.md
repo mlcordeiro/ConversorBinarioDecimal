@@ -1,1 +1,1 @@
-# Calculadora-Bin-ria
+# Conversor Binário - Decimal para a matéria de Princípios de Programação.
