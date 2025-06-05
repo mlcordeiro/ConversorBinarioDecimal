@@ -3,14 +3,14 @@ from tkinter import messagebox
 
 # Janela 
 janela = tk.Tk()
-janela.title('Calculadora Binário-Decimal')
+janela.title('Conversor Binário-Decimal')
 janela.geometry('400x500')
 janela.configure(bg="#1E1E2F")  
 
 # Título
 titulo = tk.Label(
     janela,
-    text='Calculadora Binário - Decimal',
+    text='Conversor Binário - Decimal',
     font=('Helvetica', 18, 'bold'),
     bg='#1E1E2F',
     fg='#F8F8F2'
